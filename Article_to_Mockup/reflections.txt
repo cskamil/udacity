@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+  * I think that I did not acquire new skill until now.
+  * Developing the mocking project was easy since there was specific hints within the project description. And since the design of the page is already generated, mocking projects 
+	are nice and easy to finish. Since using simple html tags, it seems easy to me to figure out and finish quiz and projects.
+  * It was hard to select and start to be a web developer since I need to make a mind set and need to convince myself to continue steadfastly. 
+  * I have used searching the web to find solutions for project specific questions. Also, it is nice to know that I'm at the beginning of web development and try to
+	keep my eager at high.
